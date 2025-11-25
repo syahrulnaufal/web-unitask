@@ -100,7 +100,7 @@ const Navbar = () => {
                         </a>
                     ))}
                   </div>                
-                  <button className=" bg-blue-600 text-white px-6 py-2 rounded-full font-bold hover:bg-blue-700 transition w-full mt-4">
+                  <button className=" bg-blue-600 mb-8 text-white px-6 py-2 rounded-full font-bold hover:bg-blue-700 transition w-full mt-4">
                       Sign In
                   </button>
               </div>
